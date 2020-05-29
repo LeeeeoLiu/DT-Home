@@ -152,7 +152,7 @@ var publicationPerYear = {};
 var yearList = [];
 var publicationText = '';
 publications.forEach(paper => {
-    var paperText = '<div class="paper-block"> <div class="paper-pdf"> <a href="'+ paper.pdf +'"> <img class="alignnone size-full wp-image-2041 aligncenter" src="images/004-pdf-2.png" width="50" height="50" style=" margin: auto;"> </a> </div> <div class="paper-info-block"> <div class="paper-title">'+ paper.title+'</div> <div class="paper-info"> <span>Authors: </span> '+paper.authors+' <br> <span>Publication: </span> '+ paper.publication +' '+ paper.year+' </div> </div> </div>'
+    var paperText = '<div class="paper-block"> <div class="paper-pdf"> <a href="'+ paper.pdf +'"> <img class="alignnone size-full wp-image-2041 aligncenter" src="https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/004-pdf-2.png" width="50" height="50" style=" margin: auto;"> </a> </div> <div class="paper-info-block"> <div class="paper-title">'+ paper.title+'</div> <div class="paper-info"> <span>Authors: </span> '+paper.authors+' <br> <span>Publication: </span> '+ paper.publication +' '+ paper.year+' </div> </div> </div>'
     if (!publicationPerYear.hasOwnProperty(paper.year)){
         publicationPerYear[paper.year] = '<h1 style="text-align: center;">'+ paper.year +'</h1>';
         yearList.push(paper.year)

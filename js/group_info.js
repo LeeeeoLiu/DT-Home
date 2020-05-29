@@ -3,12 +3,12 @@ var stus = [];
 hitscir_poi = [126.637782, 45.734732]
 stus.push({
     'name': '朱庆福', 'page': 'qfzhu', 'type': 'D', 'sdt': 2016,
-    'pic': 'images/qfzhu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/qfzhu.jpg',
     'focus': '对话生成模型'
 });
 stus.push({
     'name': '宋皓宇', 'page': 'hysong', 'type': 'D', 'sdt': 2018,
-    'pic': 'images/hysong.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/hysong.jpg',
     'focus': '对话角色化'
 });
 stus.push({
@@ -18,12 +18,12 @@ stus.push({
 });
 stus.push({
     'name': '刘元兴', 'page': 'yxliu', 'type': 'D', 'sdt': 2019,
-    'pic': 'images/yxliu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/yxliu.jpg',
     'focus': '营销获客'
 });
 stus.push({
     'name': '胡景雯', 'page': 'jwhu', 'type': 'D', 'sdt': 2020,
-    'pic': 'images/jwhu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jwhu.jpg',
     'focus': '对话一致性'
 });
 stus.push({
@@ -38,53 +38,53 @@ stus.push({
 });
 stus.push({
     'name': '赵正宇', 'page': 'zyzhao', 'type': 'M', 'sdt': 2018, 'gdt': 2020, 'offer': '深圳腾讯',
-    'pic': 'images/zyzhao.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zyzhao.jpg',
     'poi': [113.941921, 22.528438, '赵正宇-深圳腾讯'],
     'focus': '对话角色化'
 });
 stus.push({
     'name': '朱才海', 'page': 'chzhu', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'images/chzhu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/chzhu.jpg',
     'focus': '用户建模'
 });
 stus.push({
     'name': '冯梓娴', 'page': 'zxfeng', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'images/zxfeng.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zxfeng.jpg',
     'focus': '对话评价'
 });
 stus.push({
     'name': '张开颜', 'page': 'kyzhang', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
-    'pic': 'images/kyzhang.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang.jpg',
     'focus': '群聊评测'
 });
 stus.push({
     'name': '孙润鑫', 'page': 'rxsum', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
-    'pic': 'images/rxsun.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/rxsun.jpg',
     'focus': '对话背景建模'
 });
 stus.push({
     'name': '李明达', 'page': 'mdli', 'type': 'I', 'sdt': 2019,
-    'pic': 'images/mdli.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/mdli.jpg',
     'focus': '对话背景建模'
 });
 stus.push({
     'name': '狄东林', 'page': 'dldi', 'type': 'I', 'sdt': 2019,
-    'pic': 'images/dldi.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg',
     'focus': '意图识别'
 });
 stus.push({
     'name': '张家乐', 'page': 'jlzhang', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
-    'pic': 'images/jlzhang2.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jlzhang2.jpg',
     'focus': '省略与指代'
 });
 stus.push({
     'name': '杜佳琪', 'page': 'jqdu', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
-    'pic': 'images/jqdu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
     'focus': '用户建模'
 });
 stus.push({
     'name': '王雪松', 'page': 'xswang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
-    'pic': 'images/xswang.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/xswang.jpg',
     'focus': '营销获客'
 });
 stus.push({
