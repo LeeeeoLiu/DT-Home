@@ -60,12 +60,12 @@
 
 .tabqh .tabdiv {
     font-size: 12px;
-    position: absolute;
+    /* position: absolute; */
     text-align: left;
     top: 32px;
     width: 100%;
     border-top: none;
-    display: contents;
+    /* display: contents; */
     /* background-color: #ededed; */
 }
 
