@@ -3,23 +3,28 @@ var stus = [];
 hitscir_poi = [126.637782, 45.734732]
 stus.push({
     'name': '朱庆福', 'page': 'qfzhu', 'type': 'D', 'sdt': 2016,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/qfzhu.jpg'
+    'pic': 'images/qfzhu.jpg',
+    'focus': '对话生成模型'
 });
 stus.push({
     'name': '宋皓宇', 'page': 'hysong', 'type': 'D', 'sdt': 2018,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/hysong2.jpg'
+    'pic': 'images/hysong.jpg',
+    'focus': '对话角色化'
 });
 stus.push({
     'name': '马龙轩', 'page': 'lxma', 'type': 'D', 'sdt': 2019,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/lxma1.jpg'
+    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/lxma1.jpg',
+    'focus': '对话背景建模'
 });
 stus.push({
     'name': '刘元兴', 'page': 'yxliu', 'type': 'D', 'sdt': 2019,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/yxliu.jpg'
+    'pic': 'images/yxliu.jpg',
+    'focus': '营销获客'
 });
 stus.push({
     'name': '胡景雯', 'page': 'jwhu', 'type': 'D', 'sdt': 2020,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2020/05/jwhu.jpg'
+    'pic': 'images/jwhu.jpg',
+    'focus': '对话一致性'
 });
 stus.push({
     'name': '朱泽圻', 'page': 'zqzhu', 'type': 'M', 'sdt': 2017, 'gdt': 2019,
@@ -33,38 +38,64 @@ stus.push({
 });
 stus.push({
     'name': '赵正宇', 'page': 'zyzhao', 'type': 'M', 'sdt': 2018, 'gdt': 2020, 'offer': '深圳腾讯',
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/zyzhao.png',
-    'poi': [113.941921, 22.528438, '赵正宇-深圳腾讯']
+    'pic': 'images/zyzhao.jpg',
+    'poi': [113.941921, 22.528438, '赵正宇-深圳腾讯'],
+    'focus': '对话角色化'
 });
 stus.push({
     'name': '朱才海', 'page': 'chzhu', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/chzhu.jpg'
+    'pic': 'images/chzhu.jpg',
+    'focus': '用户建模'
 });
 stus.push({
     'name': '冯梓娴', 'page': 'zxfeng', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/zxfeng1.png'
+    'pic': 'images/zxfeng.jpg',
+    'focus': '对话评价'
 });
 stus.push({
     'name': '张开颜', 'page': 'kyzhang', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/kyzhang.jpg'
+    'pic': 'images/kyzhang.jpg',
+    'focus': '群聊评测'
+});
+stus.push({
+    'name': '孙润鑫', 'page': 'rxsum', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
+    'pic': 'images/rxsun.jpg',
+    'focus': '对话背景建模'
+});
+stus.push({
+    'name': '李明达', 'page': 'mdli', 'type': 'I', 'sdt': 2019,
+    'pic': 'images/mdli.jpg',
+    'focus': '对话背景建模'
+});
+stus.push({
+    'name': '狄东林', 'page': 'dldi', 'type': 'I', 'sdt': 2019,
+    'pic': 'images/dldi.jpg',
+    'focus': '意图识别'
 });
 stus.push({
     'name': '张家乐', 'page': 'jlzhang', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/jlzhang.jpg'
+    'pic': 'images/jlzhang2.jpg',
+    'focus': '省略与指代'
 });
 stus.push({
     'name': '杜佳琪', 'page': 'jqdu', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/jqdu1.jpg'
+    'pic': 'images/jqdu.jpg',
+    'focus': '用户建模'
 });
 stus.push({
-    'name': '杜雨萌', 'page': 'ymdu', 'type': 'M', 'sdt': 2014, 'gdt': 2016,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/ymdu.png', 'offer': '北京腾讯',
-    'poi': [116.404763, 39.914023, '杜雨萌-北京腾讯']
+    'name': '王雪松', 'page': 'xswang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
+    'pic': 'images/xswang.jpg',
+    'focus': '营销获客'
 });
 stus.push({
-    'name': '叶哲', 'page': 'zye', 'type': 'B', 'sdt': 2012, 'gdt': 2016,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/zye.png', 'offer': '上海交通大学',
-    'poi': [121.443287, 31.03201, '叶哲-上海交通大学']
+    'name': '汪意发', 'page': 'yfwang', 'type': 'M', 'sdt': 2016, 'gdt': 2018,
+    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/yfwang.png', 'offer': '科大讯飞',
+    'poi': [116.404763, 39.914023, '汪意发-北京科大讯飞']
+});
+stus.push({
+    'name': '张杨子', 'page': 'yzzhang', 'type': 'M', 'sdt': 2016, 'gdt': 2018,
+    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/yzzhang.png', 'offer': '海航研究院',
+    'poi': [108.846864, 34.215388, '张杨子-西安海航科技研究院']
 });
 stus.push({
     'name': '曹东岩', 'page': 'dycao', 'type': 'M', 'sdt': 2015, 'gdt': 2017,
@@ -77,14 +108,14 @@ stus.push({
     'poi': [113.941921, 22.528438, '裘实-深圳腾讯']
 });
 stus.push({
-    'name': '汪意发', 'page': 'yfwang', 'type': 'M', 'sdt': 2016, 'gdt': 2018,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/yfwang.png', 'offer': '科大讯飞',
-    'poi': [116.404763, 39.914023, '汪意发-北京科大讯飞']
+    'name': '杜雨萌', 'page': 'ymdu', 'type': 'M', 'sdt': 2014, 'gdt': 2016,
+    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/ymdu.png', 'offer': '北京腾讯',
+    'poi': [116.404763, 39.914023, '杜雨萌-北京腾讯']
 });
 stus.push({
-    'name': '张杨子', 'page': 'yzzhang', 'type': 'M', 'sdt': 2016, 'gdt': 2018,
-    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/yzzhang.png', 'offer': '海航科技研究院',
-    'poi': [108.846864, 34.215388, '张杨子-西安海航科技研究院']
+    'name': '叶哲', 'page': 'zye', 'type': 'B', 'sdt': 2012, 'gdt': 2016,
+    'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/zye.png', 'offer': '上海交通大学',
+    'poi': [121.443287, 31.03201, '叶哲-上海交通大学']
 });
 // 打印小组成员
 var i;
@@ -92,30 +123,36 @@ var today = new Date();
 var todt = today.getFullYear() + (today.getMonth() + 1) / 12.0
 // 输出照片墙
 var picsText = '';
-var ppicsText = '<div id="phd_pics" style="width: 100%;display: flex"> <div style="width: 15%;text-align: center;"><div style="color: white;width: 70%;background-color: slategray;border: 2px solid; border-color: steelblue;font-size: 1vw;    margin: 10%;">博士生</div></div><div style="width: 80%;">';
-var mpicsText = '<div id="phd_pics" style="width: 100%;display: flex"> <div style="width: 15%;text-align: center;"><div style="color: white;width: 70%;background-color: slategray;border: 2px solid; border-color: steelblue;font-size: 1vw;    margin: 10%;">硕士生</div></div><div style="width: 80%;">';
-var bpicsText = '<div id="phd_pics" style="width: 100%;display: flex"> <div style="width: 15%;text-align: center;"><div style="color: white;width: 70%;background-color: slategray;border: 2px solid; border-color: steelblue;font-size: 1vw;    margin: 10%;">本科生</div></div><div style="width: 80%;">';
-var gpicsText = '<div id="phd_pics" style="width: 100%;display: flex"> <div style="width: 15%;text-align: center;"><div style="color: white;width: 70%;background-color: slategray;border: 2px solid; border-color: steelblue;font-size: 1vw;    margin: 10%;">毕业生</div></div><div style="width: 80%;">';
-var stuType = { 'B': '本', 'M': '硕', 'D': '博' }
+var ppicsText = '<div class="users-block"> <h1>博士生</h1></div> <div class="users-block"> <div class="users-row-stu">';
+var mpicsText = '<div class="users-block""><h1>硕士生</h1></div> <div class="users-block"> <div class="users-row-stu">';
+var bpicsText = '<div class="users-block"><h1>本科生</h1></div> <div class="users-block"> <div class="users-row-stu">';
+var gpicsText = '<div class="users-block"><h1>毕业生</h1></div> <div class="users-block"> <div class="users-row-stu">';
+var ipicsText = '<div class="users-block"><h1>实习生</h1></div> <div class="users-block"> <div class="users-row-stu">';
+
+var stuType = { 'B': '本', 'M': '硕', 'D': '博', 'I':'' }
 for (i = 0; i < stus.length; i++) {
     if (stus[i].type == 'D') {
-        ppicsText += ' <div style="width: 120px; height: 230px; text-align: center;float: left; margin: 1%;font-size: 1vw;"><img src="' + stus[i].pic + '" width="100%" height="70%"><div style="width: 100%;height: 30%;">' + '<a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a>' + '<br>' + stus[i].sdt + '级' + stuType[stus[i].type] + '</div></div>';
-    } else if (stus[i].gdt + 7 / 12.0 > todt) {
+        ppicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+    }else if(stus[i].type == 'I'){
+        ipicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '年' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+    }else if (stus[i].gdt + 7 / 12.0 > todt) {
         if (stus[i].type == 'M') {
-            mpicsText += ' <div style="width: 120px; height: 230px; text-align: center;float: left; margin: 1%;font-size: 1vw;"><img src="' + stus[i].pic + '" width="100%" height="70%"><div style="width: 100%;height: 30%;">' + '<a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a>' + '<br>' + stus[i].sdt + '级' + stuType[stus[i].type] + '</div></div>';
+            mpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
         } else {
-            bpicsText += ' <div style="width: 120px; height: 230px; text-align: center;float: left; margin: 1%;font-size: 1vw;"><img src="' + stus[i].pic + '" width="100%" height="70%"><div style="width: 100%;height: 30%;">' + '<a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a>' + '<br>' + stus[i].sdt + '级' + stuType[stus[i].type] + '</div></div>';
+            bpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
         }
     } else {
-        gpicsText += ' <div style="width: 120px; height: 230px; text-align: center;float: left; margin: 1%;font-size: 0.8vw;"><img src="' + stus[i].pic + '" width="100%" height="70%"><div style="width: 100%;height: 30%;">' + '<a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a>' + '<br>' + stus[i].gdt + '届' + stuType[stus[i].type] + '<br>' + stus[i].offer + '</div></div>';
+        gpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].gdt + '届' + stuType[stus[i].type] + '<span> | </span>' + stus[i].offer+ '</div></div></div>';
     }
 }
 ppicsText += '</div></div>';
 mpicsText += '</div></div>';
 bpicsText += '</div></div>';
 gpicsText += '</div></div>';
+ipicsText += '</div></div>';
 picsText += ppicsText;
 picsText += mpicsText;
 picsText += bpicsText;
+picsText += ipicsText
 picsText += gpicsText;
 document.getElementById('wall_body').innerHTML += picsText;

@@ -1,0 +1,144 @@
+#research-chart{
+    font-size: 16px;
+}
+
+
+
+.text-header {
+    /*float: left;*/
+    display: inline-block;
+    white-space: nowrap;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+}
+
+.text-header>.after {
+    content: '';
+    height: 2px;
+    width: 20px;
+    background: black;
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    border: none;
+}
+
+.text-header>.before {
+    content: '';
+    height: 2px;
+    width: 20px;
+    background: black;
+    position: absolute;
+    right: 100%;
+    top: 50%;
+    border: none;
+}
+
+.text-header>div {
+    /* background-color: #FEB1B2;  */
+    background-color: #B2AFFF;
+    color: black;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 8px;
+    border: 2px black solid;
+}
+
+
+
+.content {
+    /*float: left;*/
+    display: inline-block;
+    white-space: nowrap;
+
+}
+
+
+/*线条*/
+.line,
+.line-only {
+    /*float: left;*/
+    display: inline-block;
+    white-space: nowrap;
+
+}
+
+.line>div,
+.line-only>div {
+    height: 29px;
+    width: 30px;
+}
+
+/* .table>.tr{
+    border-left: 1px solid red;
+} */
+.tr>div {
+    vertical-align: middle;
+}
+
+.tr {
+    position: relative;
+}
+
+.tr>.tr_children {
+    position: absolute;
+    left: 0%;
+    height: 100%;
+    width: 2px;
+    background: black;
+    bottom: 0%;
+    /* border-left: 1px solid red; */
+}
+
+.table>.tr:first-child>.tr_children {
+    position: absolute;
+    left: 0%;
+    height: 50%;
+    width: 2px;
+    background: black;
+    top: 50%;
+}
+
+.table>.tr:last-child>.tr_children {
+    position: absolute;
+    left: 0%;
+    height: 50%;
+    width: 2px;
+    background: black;
+    bottom: 50%;
+}
+
+.tr>.line>div:nth-of-type(1) {
+    display: inline-block;
+    white-space: nowrap;
+
+    border-left: 1px dashed red;
+    border-bottom: 1px dashed red;
+}
+
+.tr>.line>div:nth-of-type(2) {
+    border-left: 1px dashed red;
+}
+
+.tr:nth-of-type(1)>.line>div:nth-of-type(1) {
+    border-left: none;
+}
+
+.tr:nth-last-child(1)>.line>div:nth-of-type(2) {
+    border-left: none;
+}
+
+.line-only>div:nth-of-type(1) {
+    border-bottom: 1px dashed red;
+}
+
+#l-map{height:520px;width:640px; margin: auto;}
+
+.hiddendiv {
+    display: none;
+}

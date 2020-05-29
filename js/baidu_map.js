@@ -33,7 +33,6 @@ for (i = 0; i < stus.length; i++) {
         grad_info = ' <div style="width: 60px; height: 115px; text-align: center;float: left; margin: 1%;font-size: 0.8vw;"><img src="' + stus[i].pic + '" width="100%" height="70%"><div style="width: 100%;height: 30%;">' + stus[i].name + '<br>' + stus[i].gdt + '届' + stuType[stus[i].type] + '<br>' + stus[i].offer + '</div></div>';
         if (poi_x_list.indexOf(stus[i].poi[0]) > -1) {
             var idx = poi_x_list.indexOf(stus[i].poi[0]);
-            console.log(stus[i])
             poi_info[idx][2] += grad_info;
         }
         else {
