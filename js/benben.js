@@ -85,9 +85,9 @@ benben_func.forEach(func => {
         detailText = '<a href="' + func.url + '">详细介绍</a>';
     }
     if (idx % 2 == 0) {
-        funcsText += '<div class="benben_fb"> <div class="benben_fd"> <h1>' + func.name + '</h1> ' + func.desc + '<br><br>' + detailText + '</div> <div class="benben_fp"> <img src="' + func.img + '" class="benben_fimg" /> </div> </div>'
+        funcsText += '<div class="benben_fb"> <div class="benben_fd"> <h1>' + func.name + '</h1><p style="font-size:14px;">' + func.desc + '</p><br><br>' + detailText + '</div> <div class="benben_fp"> <img src="' + func.img + '" class="benben_fimg" /> </div> </div>'
     } else {
-        funcsText += '<div class="benben_fb">  <div class="benben_fp"> <img src="' + func.img + '" class="benben_fimg" /> </div> <div class="benben_fd"> <h1>' + func.name + '</h1> ' + func.desc + '<br><br>' + detailText + '</div> </div>'
+        funcsText += '<div class="benben_fb">  <div class="benben_fp"> <img src="' + func.img + '" class="benben_fimg" /> </div> <div class="benben_fd"> <h1>' + func.name + '</h1><p style="font-size:14px;">' + func.desc + '</p><br><br>' + detailText + '</div> </div>'
     }
     idx++;
 
