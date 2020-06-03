@@ -1,5 +1,5 @@
-var map = new BMap.Map("l-map");
-function draw_points(data_info) {
+// var map = new BMap.Map("l-map");
+function draw_points(data_info, map) {
     var opts = {
         width: 250,
         height: 160,
@@ -41,5 +41,22 @@ for (i = 0; i < stus.length; i++) {
         }
     }
 }
-draw_points(poi_info)
-map.centerAndZoom(new BMap.Point(106.591611, 36.217786), 5);
+// draw_points(poi_info)
+// map.centerAndZoom(new BMap.Point(106.591611, 36.217786), 5);
+
+
+//百度地图API功能
+function loadJScript() {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://api.map.baidu.com/api?v=2.0&ak=zqAvMoe6c1StDNWvVFBa8ed0VzBgnkKn&callback=init";
+    document.body.appendChild(script);
+}
+function init() {
+    var map = new BMap.Map("l-map");            // 创建Map实例
+    var point = new BMap.Point(106.591611, 36.217786); // 创建点坐标
+    map.centerAndZoom(point,5);                 
+    map.enableScrollWheelZoom();                 //启用滚轮放大缩小
+    draw_points(poi_info, map)
+}  
+window.onload = loadJScript;  //异步加载地图

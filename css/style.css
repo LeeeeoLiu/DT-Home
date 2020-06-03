@@ -76,11 +76,15 @@ body{
     margin: 0px;
 }
 
-/* #tabcontent4, #tabcontent5{ */
-    /* display: grid; */
-/* } */
-
 h1{
     margin-top: 0px;
     padding-top: 1%;
+    font-size: 2em;
+}
+
+.group-info{
+    font-size: 16px;
+    width: 90%;
+    padding: 0 auto;
+    margin: 0 auto;
 }
