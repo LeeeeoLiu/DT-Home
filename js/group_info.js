@@ -23,7 +23,7 @@ stus.push({
 });
 stus.push({
     'name': '胡景雯', 'page': 'jwhu', 'type': 'D', 'sdt': 2020,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jwhu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@771dbc9/images/jwhu2.jpg',
     'focus': '对话一致性'
 });
 stus.push({
