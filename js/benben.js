@@ -52,7 +52,7 @@ var benben_func = [
     }, {
         name: '笨笨古诗',
         desc: '触发词“笨笨古诗”。\n“笨笨”对作诗很感兴趣，背了很多首古诗。\n现在的“笨笨”可是一个大诗人，能陪您玩诗词成语、诗词九宫格、古诗词补全、诗词飞花令、诗词接龙等五个游戏。',
-        img: 'https://mmbiz.qpic.cn/mmbiz_jpg/58FUuNaBUjoKuAkePibqmrZiaOSyktaWv6HGN9YSgpCpbMqzwRu97KdSXZJGLBPbxnZ2bqiaSSF0S1ZmHEuiaWebibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1',
+        img: 'https://tva1.sinaimg.cn/large/007S8ZIlly1gg21nd4bskj30u010eang.jpg',
         url: 'https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q',
     }, {
         name: '猜谜语',
