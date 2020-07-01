@@ -53,14 +53,15 @@ stus.push({
     'focus': '对话评价'
 });
 stus.push({
-    'name': '张开颜', 'page': 'kyzhang', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
+    'name': '张开颜', 'page': 'kyzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang.jpg',
     'focus': '群聊评测'
 });
 stus.push({
     'name': '孙润鑫', 'page': 'rxsum', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/rxsun.jpg',
-    'focus': '对话背景建模'
+    'focus': '对话背景建模', 'offer': '中科院自动化',
+    'poi': [116.404763, 39.914023, '孙润鑫-中科院自动化']
 });
 stus.push({
     'name': '李明达', 'page': 'mdli', 'type': 'I', 'sdt': 2019,
@@ -73,7 +74,7 @@ stus.push({
     'focus': '意图识别'
 });
 stus.push({
-    'name': '张家乐', 'page': 'jlzhang', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
+    'name': '张家乐', 'page': 'jlzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jlzhang2.jpg',
     'focus': '省略与指代'
 });
@@ -116,6 +117,10 @@ stus.push({
     'name': '叶哲', 'page': 'zye', 'type': 'B', 'sdt': 2012, 'gdt': 2016,
     'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/zye.png', 'offer': '上海交通大学',
     'poi': [121.443287, 31.03201, '叶哲-上海交通大学']
+});
+stus.push({
+    'name': '王航', 'page': 'hyang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'pic': 'images/hwang.jpg',
 });
 // 打印小组成员
 var i;
