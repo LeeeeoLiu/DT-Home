@@ -120,7 +120,7 @@ stus.push({
 });
 stus.push({
     'name': '王航', 'page': 'hyang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
-    'pic': 'images/hwang.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
 });
 // 打印小组成员
 var i;
