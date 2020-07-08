@@ -122,6 +122,15 @@ stus.push({
     'name': '王航', 'page': 'hyang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
 });
+stus.push({
+    'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/ryxiao.jpg',
+});
+stus.push({
+    'name': '齐弼卿', 'page': 'bqqi', 'type': 'D', 'sdt': 2019,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
+    'focus': '对话系统'
+});
 // 打印小组成员
 var i;
 var today = new Date();
