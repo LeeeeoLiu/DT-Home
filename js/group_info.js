@@ -121,10 +121,27 @@ stus.push({
 stus.push({
     'name': '王航', 'page': 'hyang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
+    'focus': '对话一致性'
+});
+stus.push({
+    'name': '李佳朋', 'page': 'jpli', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/jpli.jpg',
+    'focus': '对话背景建模'
+});
+stus.push({
+    'name': '庄子彧', 'page': 'zyzhuang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/zyzhuang.jpg',
+    'focus': '对话评价'
+});
+stus.push({
+    'name': '孙毓霄', 'page': 'yxsun', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/yxsun.jpg',
+    'focus': '对话评价'
 });
 stus.push({
     'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/ryxiao.jpg',
+    'focus': '风格化对话'
 });
 stus.push({
     'name': '齐弼卿', 'page': 'bqqi', 'type': 'D', 'sdt': 2019,
