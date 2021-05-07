@@ -13,7 +13,7 @@ var publications = [{
     year: '2021',
     // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 },{
-    authors: 'Longxu Ma, Mingda Li, Wei-Nan Zhang, Jiapeng Li, and Ting Liu'
+    authors: 'Longxu Ma, Mingda Li, Wei-Nan Zhang, Jiapeng Li, and Ting Liu',
     title: 'Unstructured Text Enhanced Open-domain Dialogue System: A Systematic Survey',
     publication: 'TOIS',
     type: 'J',
