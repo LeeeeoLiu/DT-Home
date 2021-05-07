@@ -20,6 +20,13 @@ var publications = [{
     year: '2021',
     // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 },{
+    authors: 'Wei-Nan Zhang, Yue Zhang, Hanlin Tang, Zhengyu Zhao, Caihai Zhu, and Ting Liu',
+    title: 'What did you refer to? Evaluating Co-references in Dialogue',
+    publication: 'Findings of ACL',
+    type: 'C',
+    year: '2021',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+},{
     authors: 'Qingfu Zhu, Wei-Nan Zhang, Ting Liu, and William Wang',
     title: 'Counterfactual Off-Policy Training for Neural Dialogue Generation',
     publication: 'EMNLP',
