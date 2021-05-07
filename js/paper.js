@@ -1,24 +1,45 @@
 var publications = [{
+    authors: 'Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, and Ting Liu',
+    title: 'BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data',
+    publication: 'ACL',
+    type: 'C',
+    year: '2021',
+    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+},{
+    authors: 'Qingfu Zhu, Wei-Nan Zhang, Ting Liu, and William Wang',
+    title: 'Neural Stylistic Response Generation with Disentangled Latent Variables',
+    publication: 'ACL',
+    type: 'C',
+    year: '2021',
+    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+},{
+    authors: 'Longxu Ma, Mingda Li, Wei-Nan Zhang, Jiapeng Li, and Ting Liu'
+    title: 'Unstructured Text Enhanced Open-domain Dialogue System: A Systematic Survey',
+    publication: 'TOIS',
+    type: 'J',
+    year: '2021',
+    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+},{
     authors: 'Qingfu Zhu, Wei-Nan Zhang, Ting Liu, and William Wang',
     title: 'Counterfactual Off-Policy Training for Neural Dialogue Generation',
     publication: 'EMNLP',
     type: 'C',
     year: '2020',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 }, {
     authors: 'Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu, and Xiaojiang Liu',
     title: 'Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents',
     publication: 'EMNLP',
     type: 'C',
     year: '2020',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 }, {
     authors: 'Longxuan Ma, Wei-Nan Zhang, Runxin Sun, and Ting Liu',
     title: 'A Compare Aggregate Transformer for Understanding Document-grounded Dialogue',
     publication: 'Findings of EMNLP',
     type: 'C',
     year: '2020',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 }, {
     authors: 'Haoyu Song, Yan Wang, Wei-Nan Zhang, Xiaojiang Liu, and Ting Liu',
     title: 'Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation',
