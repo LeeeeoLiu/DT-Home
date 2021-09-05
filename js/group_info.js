@@ -147,7 +147,7 @@ stus.push({
 });
 stus.push({
     'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/thliu.png',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/thliu.png',
     'focus': '对话系统'
 });
 stus.push({
@@ -162,12 +162,12 @@ stus.push({
 });
 stus.push({
     'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/rzliu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/rzliu.jpg',
     'focus': '对话系统'
 });
 stus.push({
     'name': '熊聪豪', 'page': 'hcxiong', 'type': 'I', 'sdt': 2020,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/chxiong.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/chxiong.jpg',
     'focus': '对话系统'
 });
 // 打印小组成员
