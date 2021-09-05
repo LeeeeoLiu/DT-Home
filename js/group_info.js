@@ -38,19 +38,19 @@ stus.push({
 });
 stus.push({
     'name': '赵正宇', 'page': 'zyzhao', 'type': 'M', 'sdt': 2018, 'gdt': 2020, 'offer': '深圳腾讯',
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zyzhao.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zyzhao.jpg', 'offer': '深圳腾讯',
     'poi': [113.941921, 22.528438, '赵正宇-深圳腾讯'],
     'focus': '对话角色化'
 });
 stus.push({
     'name': '朱才海', 'page': 'chzhu', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/chzhu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/chzhu.jpg', 'offer': '深圳腾讯',
 	'poi': [113.941921, 22.528438, '朱才海-深圳腾讯'],
     'focus': '用户建模'
 });
 stus.push({
     'name': '冯梓娴', 'page': 'zxfeng', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zxfeng.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zxfeng.jpg', 'offer': '部队',
 	'poi': [123.46987, 41.80515, '冯梓娴-沈阳'],
     'focus': '对话评价'
 });
@@ -81,7 +81,7 @@ stus.push({
     'focus': '省略与指代'
 });
 stus.push({
-    'name': '杜佳琪', 'page': 'jqdu', 'type': 'B', 'sdt': 2021, 'gdt': 2023,
+    'name': '杜佳琪', 'page': 'jqdu', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
     'focus': '用户建模'
 });
@@ -186,12 +186,12 @@ var stuType = { 'B': '本', 'M': '硕', 'D': '博', 'I':'' }
 for (i = 0; i < stus.length; i++) {
     if (stus[i].type == 'D') {
         ppicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
-    }else if(stus[i].type == 'I'){
-        ipicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '年' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
     }else if (stus[i].gdt + 7 / 12.0 > todt) {
         if (stus[i].type == 'M') {
             mpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
-        } else {
+        }else if(stus[i].type == 'I'){
+			ipicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '年' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+		}else {
             bpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
         }
     } else {
