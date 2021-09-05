@@ -45,11 +45,13 @@ stus.push({
 stus.push({
     'name': '朱才海', 'page': 'chzhu', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/chzhu.jpg',
+	'poi': [113.941921, 22.528438, '朱才海-深圳腾讯'],
     'focus': '用户建模'
 });
 stus.push({
     'name': '冯梓娴', 'page': 'zxfeng', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zxfeng.jpg',
+	'poi': [123.46987, 41.80515, '冯梓娴-沈阳'],
     'focus': '对话评价'
 });
 stus.push({
@@ -64,12 +66,12 @@ stus.push({
     'poi': [116.404763, 39.914023, '孙润鑫-中科院自动化']
 });
 stus.push({
-    'name': '李明达', 'page': 'mdli', 'type': 'I', 'sdt': 2019,
+    'name': '李明达', 'page': 'mdli', 'type': 'D', 'sdt': 2019,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/mdli.jpg',
     'focus': '对话背景建模'
 });
 stus.push({
-    'name': '狄东林', 'page': 'dldi', 'type': 'I', 'sdt': 2019,
+    'name': '狄东林', 'page': 'dldi', 'type': 'I', 'sdt': 2019, 'gdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg',
     'focus': '意图识别'
 });
@@ -119,28 +121,53 @@ stus.push({
     'poi': [121.443287, 31.03201, '叶哲-上海交通大学']
 });
 stus.push({
-    'name': '王航', 'page': 'hwang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'name': '王航', 'page': 'hwang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
     'focus': '对话一致性'
 });
 stus.push({
-    'name': '李佳朋', 'page': 'jpli', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'name': '李佳朋', 'page': 'jpli', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/jpli.jpg',
     'focus': '对话背景建模'
 });
 stus.push({
-    'name': '庄子彧', 'page': 'zyzhuang', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'name': '庄子彧', 'page': 'zyzhuang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/zyzhuang.jpg',
     'focus': '对话评价'
 });
 stus.push({
-    'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'D', 'sdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/ryxiao.jpg',
     'focus': '风格化对话'
 });
 stus.push({
     'name': '齐弼卿', 'page': 'bqqi', 'type': 'D', 'sdt': 2019,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/thliu.png',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,
+    //'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '刘凯华', 'page': 'khliu', 'type': 'B', 'sdt': 2018,
+    //'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/rzliu.jpg',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '熊聪豪', 'page': 'hcxiong', 'type': 'I', 'sdt': 2020,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/chxiong.jpg',
     'focus': '对话系统'
 });
 // 打印小组成员
