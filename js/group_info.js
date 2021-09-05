@@ -81,7 +81,7 @@ stus.push({
     'focus': '省略与指代'
 });
 stus.push({
-    'name': '杜佳琪', 'page': 'jqdu', 'type': 'B', 'sdt': 2017, 'gdt': 2021,
+    'name': '杜佳琪', 'page': 'jqdu', 'type': 'B', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
     'focus': '用户建模'
 });
@@ -151,17 +151,17 @@ stus.push({
     'focus': '对话系统'
 });
 stus.push({
-    'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,
+    'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,'gdt': 2022,
     //'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
     'focus': '对话系统'
 });
 stus.push({
-    'name': '刘凯华', 'page': 'khliu', 'type': 'B', 'sdt': 2018,
+    'name': '刘凯华', 'page': 'khliu', 'type': 'B', 'sdt': 2018,'gdt': 2022,
     //'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
     'focus': '对话系统'
 });
 stus.push({
-    'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,
+    'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/rzliu.jpg',
     'focus': '对话系统'
 });
