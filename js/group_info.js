@@ -66,7 +66,7 @@ stus.push({
     'poi': [116.404763, 39.914023, '孙润鑫-中科院自动化']
 });
 stus.push({
-    'name': '李明达', 'page': 'mdli', 'type': 'D', 'sdt': 2019,
+    'name': '李明达', 'page': 'mdli', 'type': 'D', 'sdt': 2021,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/mdli.jpg',
     'focus': '对话背景建模'
 });
@@ -81,14 +81,14 @@ stus.push({
     'focus': '省略与指代'
 });
 stus.push({
-    'name': '杜佳琪', 'page': 'jqdu', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
-    'focus': '用户建模'
-});
-stus.push({
     'name': '王雪松', 'page': 'xswang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/xswang.jpg',
     'focus': '营销获客'
+});
+stus.push({
+    'name': '杜佳琪', 'page': 'jqdu', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
+    'focus': '用户建模'
 });
 stus.push({
     'name': '汪意发', 'page': 'yfwang', 'type': 'M', 'sdt': 2016, 'gdt': 2018,
@@ -146,7 +146,7 @@ stus.push({
     'focus': '对话系统'
 });
 stus.push({
-    'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021,
+    'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/thliu.png',
     'focus': '对话系统'
 });
@@ -162,12 +162,12 @@ stus.push({
 });
 stus.push({
     'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/rzliu.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/rzliu.jpg',
     'focus': '对话系统'
 });
 stus.push({
-    'name': '熊聪豪', 'page': 'hcxiong', 'type': 'I', 'sdt': 2020,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/chxiong.jpg',
+    'name': '熊聪豪', 'page': 'hcxiong', 'type': 'I', 'sdt': 2020, 'gdt': 2022,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/chxiong.jpg',
     'focus': '对话系统'
 });
 // 打印小组成员
