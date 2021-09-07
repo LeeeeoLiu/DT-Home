@@ -2,27 +2,28 @@
 var stus = [];
 hitscir_poi = [126.637782, 45.734732]
 stus.push({
-    'name': '朱庆福', 'page': 'qfzhu', 'type': 'D', 'sdt': 2016,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/qfzhu.jpg',
-    'focus': '对话生成模型'
+    'name': '朱庆福', 'page': 'qfzhu', 'type': 'D', 'sdt': 2016, 'gdt':2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/qfzhu.jpg', 'offer': '留校',
+    'focus': '对话生成模型',
+	'poi': [126.639634,45.749485, '朱庆福-哈尔滨工业大学']
 });
 stus.push({
-    'name': '宋皓宇', 'page': 'hysong', 'type': 'D', 'sdt': 2018,
+    'name': '宋皓宇', 'page': 'hysong', 'type': 'D', 'sdt': 2018, 'gdt':2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/hysong.jpg',
     'focus': '对话角色化'
 });
 stus.push({
-    'name': '马龙轩', 'page': 'lxma', 'type': 'D', 'sdt': 2019,
+    'name': '马龙轩', 'page': 'lxma', 'type': 'D', 'sdt': 2019, 'gdt':2024,
     'pic': 'http://ir.hit.edu.cn/wp-content/uploads/2019/06/lxma1.jpg',
     'focus': '对话背景建模'
 });
 stus.push({
-    'name': '刘元兴', 'page': 'yxliu', 'type': 'D', 'sdt': 2019,
+    'name': '刘元兴', 'page': 'yxliu', 'type': 'D', 'sdt': 2019, 'gdt':2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/yxliu.jpg',
     'focus': '营销获客'
 });
 stus.push({
-    'name': '胡景雯', 'page': 'jwhu', 'type': 'D', 'sdt': 2020,
+    'name': '胡景雯', 'page': 'jwhu', 'type': 'D', 'sdt': 2020, 'gdt':2025,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@771dbc9/images/jwhu2.jpg',
     'focus': '对话一致性'
 });
@@ -37,7 +38,7 @@ stus.push({
     'poi': [113.941921, 22.528438, '李凌志-深圳腾讯']
 });
 stus.push({
-    'name': '赵正宇', 'page': 'zyzhao', 'type': 'M', 'sdt': 2018, 'gdt': 2020, 'offer': '深圳腾讯',
+    'name': '赵正宇', 'page': 'zyzhao', 'type': 'M', 'sdt': 2018, 'gdt': 2020, 
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zyzhao.jpg', 'offer': '深圳腾讯',
     'poi': [113.941921, 22.528438, '赵正宇-深圳腾讯'],
     'focus': '对话角色化'
@@ -66,7 +67,7 @@ stus.push({
     'poi': [116.404763, 39.914023, '孙润鑫-中科院自动化']
 });
 stus.push({
-    'name': '李明达', 'page': 'mdli', 'type': 'D', 'sdt': 2021,
+    'name': '李明达', 'page': 'mdli', 'type': 'D', 'sdt': 2021, 'gdt':2026,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/mdli.jpg',
     'focus': '对话背景建模'
 });
@@ -136,12 +137,12 @@ stus.push({
     'focus': '对话评价'
 });
 stus.push({
-    'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'D', 'sdt': 2021,
+    'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'D', 'sdt': 2021, 'gdt':2026,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/ryxiao.jpg',
     'focus': '风格化对话'
 });
 stus.push({
-    'name': '齐弼卿', 'page': 'bqqi', 'type': 'D', 'sdt': 2019,
+    'name': '齐弼卿', 'page': 'bqqi', 'type': 'D', 'sdt': 2019, 'gdt':2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
     'focus': '对话系统'
 });
@@ -152,12 +153,12 @@ stus.push({
 });
 stus.push({
     'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,'gdt': 2022,
-    //'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@5b847bf/images/benben_icon.png',
     'focus': '对话系统'
 });
 stus.push({
     'name': '刘凯华', 'page': 'khliu', 'type': 'B', 'sdt': 2018,'gdt': 2022,
-    //'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@5b847bf/images/khliu.png',
     'focus': '对话系统'
 });
 stus.push({
@@ -185,7 +186,11 @@ var ipicsText = '<div class="users-block"><h1>实习生</h1></div> <div class="u
 var stuType = { 'B': '本', 'M': '硕', 'D': '博', 'I':'' }
 for (i = 0; i < stus.length; i++) {
     if (stus[i].type == 'D') {
-        ppicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+		if(stus[i].gdt + 7 / 12.0 > todt){
+			ppicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+		}else{
+			gpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].gdt + '届' + stuType[stus[i].type] + '<span> | </span>' + stus[i].offer+ '</div></div></div>';
+		}
     }else if(stus[i].type == 'I'){
 		if(stus[i].gdt + 7 / 12.0 > todt){
 			ipicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '年' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
