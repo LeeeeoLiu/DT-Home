@@ -73,7 +73,7 @@ stus.push({
 });
 stus.push({
     'name': '狄东林', 'page': 'dldi', 'type': 'I', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg', 'offer': '北京',
     'focus': '意图识别'
 });
 stus.push({
@@ -183,7 +183,7 @@ var bpicsText = '<div class="users-block"><h1>本科生</h1></div> <div class="u
 var gpicsText = '<div class="users-block"><h1>毕业生</h1></div> <div class="users-block"> <div class="users-row-stu">';
 var ipicsText = '<div class="users-block"><h1>实习生</h1></div> <div class="users-block"> <div class="users-row-stu">';
 
-var stuType = { 'B': '本', 'M': '硕', 'D': '博', 'I':'' }
+var stuType = { 'B': '本', 'M': '硕', 'D': '博', 'I':'实习生' }
 for (i = 0; i < stus.length; i++) {
     if (stus[i].type == 'D') {
 		if(stus[i].gdt + 7 / 12.0 > todt){
@@ -193,7 +193,7 @@ for (i = 0; i < stus.length; i++) {
 		}
     }else if(stus[i].type == 'I'){
 		if(stus[i].gdt + 7 / 12.0 > todt){
-			ipicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '年' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+			ipicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '年' + '<span> | </span>' + stus[i].focus + '</div></div></div>';
 		}else{
 			gpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].gdt + '届' + stuType[stus[i].type] + '<span> | </span>' + stus[i].offer+ '</div></div></div>';
 		}
