@@ -157,11 +157,6 @@ stus.push({
     'focus': '对话系统'
 });
 stus.push({
-    'name': '刘凯华', 'page': 'khliu', 'type': 'B', 'sdt': 2018,'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@5b847bf/images/khliu.png',
-    'focus': '对话系统'
-});
-stus.push({
     'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/rzliu.jpg',
     'focus': '对话系统'
