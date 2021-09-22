@@ -1,31 +1,52 @@
-var publications = [{
+var publications = [
+{
     authors: 'Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, and Ting Liu',
     title: 'BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data',
     publication: 'ACL',
     type: 'C',
     year: '2021',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 },{
     authors: 'Qingfu Zhu, Wei-Nan Zhang, Ting Liu, and William Wang',
     title: 'Neural Stylistic Response Generation with Disentangled Latent Variables',
     publication: 'ACL',
     type: 'C',
     year: '2021',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 },{
     authors: 'Longxu Ma, Mingda Li, Wei-Nan Zhang, Jiapeng Li, and Ting Liu',
     title: 'Unstructured Text Enhanced Open-domain Dialogue System: A Systematic Survey',
     publication: 'TOIS',
     type: 'J',
     year: '2021',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 },{
     authors: 'Wei-Nan Zhang, Yue Zhang, Hanlin Tang, Zhengyu Zhao, Caihai Zhu, and Ting Liu',
     title: 'What did you refer to? Evaluating Co-references in Dialogue',
     publication: 'Findings of ACL',
     type: 'C',
     year: '2021',
-    // pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+    pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
+},{
+        authors: "Zixian Feng, Caihai Zhu, Weinan Zhang, Zhigang Chen, Wanxiang Che, Minlie Huang, Linlin Li",
+        title: "An Evaluation of Chinese Human-Computer Dialogue Technology",
+        year: "2021",
+        publication: "Data Intelligence (2021) 3 (2): 274–286",
+        type: "J",
+		pdf: "https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00090"
+},{
+        authors: "张开颜, 张伟男, 刘挺",
+        title: "基于深度学习的多方对话研究综述",
+        year: "2021",
+        publication: "中国科学 : 信息科学 ",
+        type: "J",
+		pdf: "http://scis.scichina.com/cn/2021/SSI-2020-0176.pdf"
+},{
+        authors: "Jiapeng Li*,Mingda Li*,Longxuan Ma*,Wei-nan Zhang,Ting Liu",
+        title: "Technical Report on Shared Task in DialDoc21",
+        year: "2021",
+        publication: "DialDoc Workshop of ACL",
+        type: "C"
 },{
     authors: 'Qingfu Zhu, Wei-Nan Zhang, Ting Liu, and William Wang',
     title: 'Counterfactual Off-Policy Training for Neural Dialogue Generation',
@@ -33,7 +54,7 @@ var publications = [{
     type: 'C',
     year: '2020',
     pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
-}, {
+},{
     authors: 'Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu, and Xiaojiang Liu',
     title: 'Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents',
     publication: 'EMNLP',
@@ -69,6 +90,13 @@ var publications = [{
     year: '2020',
     pdf: 'https://arxiv.org/pdf/1912.09008.pdf',
 }, {
+	authors: '孙润鑫，马龙轩，张伟男，刘挺',
+    title: '辩证看待对话历史：基于文档的对话技术研究',
+    publication: 'CCIR',
+    type: 'C',
+    year: '2020',
+    //pdf: 'https://arxiv.org/pdf/1912.09008.pdf',
+},{
     authors: 'Qingfu Zhu, Wei-Nan Zhang, Lei Cui, and Ting Liu',
     title: 'Order-Sensitive Keywords Based Response Generation in Open-Domain Conversational Systems',
     publication: 'ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)',
@@ -111,6 +139,13 @@ var publications = [{
     year: '2019',
     pdf: 'https://www.aaai.org/ojs/index.php/AAAI/article/view/4737/4615',
 }, {
+	authors: 'Zhengyu Zhao, Weinan Zhang, Wanxiang Che, Zhigang Chen, Yibo Zhang',
+    title: 'An Evaluation of Chinese Human-Computer Dialogue Technology',
+    publication: 'Data Intelligence (2019) 1 (2): 187–200.',
+    type: 'C',
+    year: '2019',
+    pdf: 'https://direct.mit.edu/dint/article/1/2/187/27495/An-Evaluation-of-Chinese-Human-Computer-Dialogue',
+},{
     authors: 'Wei-Nan Zhang, Yiming Cui, Yifa Wang, Qingfu Zhu, Lingzhi Li, Lianqiang Zhou, Ting Liu',
     title: 'Context-Sensitive Generation of Open-Domain Conversational Responses',
     publication: 'COLING',
