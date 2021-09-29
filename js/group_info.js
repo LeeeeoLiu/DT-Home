@@ -166,6 +166,13 @@ stus.push({
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/chxiong.jpg',
     'focus': '对话系统'
 });
+stus.push({
+    'name': '白昊鹏', 'page': 'hpbai', 'type': 'B', 'sdt': 2018, 'gdt': 2022,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@7d10a89/images/hpbai.jpg',
+    'focus': '对话系统'
+});
+
+
 // 打印小组成员
 var i;
 var today = new Date();
