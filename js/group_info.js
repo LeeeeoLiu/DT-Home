@@ -147,9 +147,9 @@ stus.push({
     'focus': '对话系统'
 });
 stus.push({
-    'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021, 'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/thliu.png',
-    'focus': '对话系统'
+    'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021, 'gdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@58345aa/images/thliu.png','offer': '滑铁卢大学',
+    'poi': [-80.544866,43.472292, '刘天慧-滑铁卢大学']
 });
 stus.push({
     'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,'gdt': 2022,
@@ -163,12 +163,17 @@ stus.push({
 });
 stus.push({
     'name': '熊聪豪', 'page': 'hcxiong', 'type': 'I', 'sdt': 2020, 'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/chxiong.jpg',
-    'focus': '对话系统'
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/chxiong.jpg', '香港中文大学',
+    'poi': [114.217557,22.422407, '熊聪豪-香港中文大学']
 });
 stus.push({
     'name': '白昊鹏', 'page': 'hpbai', 'type': 'B', 'sdt': 2018, 'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@7d10a89/images/hpbai.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@2375c9e/images/hpbai.jpg',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '韩一', 'page': 'yhan', 'type': 'I', 'sdt': 2022, 'gdt': 2026,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@5b847bf/images/benben_icon.png',
     'focus': '对话系统'
 });
 

@@ -1,5 +1,12 @@
 var publications = [
 {
+    authors: 'Haoyu Song, Li Dong, Weinan Zhang, Ting Liu, Furu Wei',
+    title: 'CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment',
+    publication: 'ACL',
+    type: 'C',
+    year: '2022',
+    pdf: 'https://arxiv.org/pdf/2203.07190.pdf',
+},{
     authors: 'Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, and Ting Liu',
     title: 'BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data',
     publication: 'ACL',
@@ -28,25 +35,25 @@ var publications = [
     year: '2021',
     pdf: 'https://arxiv.org/pdf/2004.07672.pdf',
 },{
-        authors: "Zixian Feng, Caihai Zhu, Weinan Zhang, Zhigang Chen, Wanxiang Che, Minlie Huang, Linlin Li",
-        title: "An Evaluation of Chinese Human-Computer Dialogue Technology",
-        year: "2021",
-        publication: "Data Intelligence (2021) 3 (2): 274–286",
-        type: "J",
-		pdf: "https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00090"
+	authors: "Zixian Feng, Caihai Zhu, Weinan Zhang, Zhigang Chen, Wanxiang Che, Minlie Huang, Linlin Li",
+	title: "An Evaluation of Chinese Human-Computer Dialogue Technology",
+	year: "2021",
+	publication: "Data Intelligence (2021) 3 (2): 274–286",
+	type: "J",
+	pdf: "https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00090"
 },{
-        authors: "张开颜, 张伟男, 刘挺",
-        title: "基于深度学习的多方对话研究综述",
-        year: "2021",
-        publication: "中国科学 : 信息科学 ",
-        type: "J",
-		pdf: "http://scis.scichina.com/cn/2021/SSI-2020-0176.pdf"
+	authors: "张开颜, 张伟男, 刘挺",
+	title: "基于深度学习的多方对话研究综述",
+	year: "2021",
+	publication: "中国科学 : 信息科学 ",
+	type: "J",
+	pdf: "http://scis.scichina.com/cn/2021/SSI-2020-0176.pdf"
 },{
-        authors: "Jiapeng Li*,Mingda Li*,Longxuan Ma*,Wei-nan Zhang,Ting Liu",
-        title: "Technical Report on Shared Task in DialDoc21",
-        year: "2021",
-        publication: "DialDoc Workshop of ACL",
-        type: "C"
+	authors: "Jiapeng Li*,Mingda Li*,Longxuan Ma*,Wei-nan Zhang,Ting Liu",
+	title: "Technical Report on Shared Task in DialDoc21",
+	year: "2021",
+	publication: "DialDoc Workshop of ACL",
+	type: "C"
 },{
     authors: 'Qingfu Zhu, Wei-Nan Zhang, Ting Liu, and William Wang',
     title: 'Counterfactual Off-Policy Training for Neural Dialogue Generation',
