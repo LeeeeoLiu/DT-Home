@@ -124,7 +124,7 @@ stus.push({
 stus.push({
     'name': '王航', 'page': 'hwang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
-    'focus': '对话一致性'
+    'focus': '对话式推荐'
 });
 stus.push({
     'name': '李佳朋', 'page': 'jpli', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
@@ -144,7 +144,7 @@ stus.push({
 stus.push({
     'name': '齐弼卿', 'page': 'bqqi', 'type': 'D', 'sdt': 2019, 'gdt':2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@9afdf28/images/bqqi.jpg',
-    'focus': '对话系统'
+    'focus': '鲁棒表示'
 });
 stus.push({
     'name': '刘天慧', 'page': 'thliu', 'type': 'I', 'sdt': 2021, 'gdt': 2021,
@@ -154,7 +154,7 @@ stus.push({
 });
 stus.push({
     'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@5b847bf/images/benben_icon.png',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d254a4/images/yhgou.jpg',
     'focus': '对话系统'
 });
 stus.push({
@@ -175,7 +175,7 @@ stus.push({
 });
 stus.push({
     'name': '韩一', 'page': 'yhan', 'type': 'I', 'sdt': 2022, 'gdt': 2026,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@5b847bf/images/benben_icon.png',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d254a4/images/yhan.jpg',
     'focus': '对话系统'
 });
 
