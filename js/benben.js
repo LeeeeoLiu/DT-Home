@@ -94,3 +94,29 @@ benben_func.forEach(func => {
 });
 
 document.getElementById('benben_func').innerHTML += funcsText;
+
+
+
+var ctp_func = [
+    {
+        name: '多技能闲聊机器人',
+        img: 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d50c0e/images/ctp-multiskill.png',
+    }, {
+        name: '兵马俑虚拟人demo',
+        img: 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d50c0e/images/ctp-qin.png',
+    }, {
+        name: '党建机器人demo',
+        img: 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d50c0e/images/ctp-dangjian.png',
+    }
+]
+
+var idx = 0;
+var funcsText1 = '';
+ctp_func.forEach(func => {
+
+	funcsText1 += '<div class="benben_fb"> <div class="benben_fd"> <h1>' + func.name + '</h1></div> <div class="benben_fp"> <img src="' + func.img + '" class="benben_fimg" /> </div> </div>'
+    idx++;
+
+});
+
+document.getElementById('ctp_func').innerHTML += funcsText1;
