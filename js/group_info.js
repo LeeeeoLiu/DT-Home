@@ -178,7 +178,12 @@ stus.push({
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d254a4/images/yhan.jpg',
     'focus': '对话系统'
 });
-
+stus.push({
+    'name': '吕岸桐', 'page': 'atlv', 'type': 'I', 'sdt': 2020, 'gdt': 2021,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/atlv.jpg',
+    'offer': '谷歌中国',
+    'poi': [121.514361,31.240005, '吕岸桐-谷歌']
+});
 
 // 打印小组成员
 var i;
