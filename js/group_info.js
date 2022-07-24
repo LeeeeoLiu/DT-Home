@@ -57,8 +57,9 @@ stus.push({
 });
 stus.push({
     'name': '张开颜', 'page': 'kyzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang.jpg',
-    'focus': '群聊评测'
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang2.jpg',
+    'focus': '群聊评测',
+	'poi': [116.333374,40.009645, '张开颜-清华读博']
 });
 stus.push({
     'name': '孙润鑫', 'page': 'rxsum', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
@@ -79,7 +80,8 @@ stus.push({
 stus.push({
     'name': '张家乐', 'page': 'jlzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jlzhang2.jpg',
-    'focus': '省略与指代'
+    'focus': '省略与指代',
+	'poi': [113.941921, 22.528438, '张家乐-深圳腾讯'],
 });
 stus.push({
     'name': '王雪松', 'page': 'xswang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
@@ -183,6 +185,14 @@ stus.push({
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/atlv.jpg',
     'offer': '谷歌中国',
     'poi': [121.514361,31.240005, '吕岸桐-谷歌']
+});
+stus.push({
+    'name': '宋明阳', 'page': 'smyang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/ymsong.jpg',
+});
+stus.push({
+    'name': '周姝涵', 'page': 'shzhou', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
 });
 
 // 打印小组成员
