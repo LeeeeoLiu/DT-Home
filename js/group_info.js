@@ -58,7 +58,7 @@ stus.push({
 stus.push({
     'name': '张开颜', 'page': 'kyzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang2.jpg',
-    'focus': '群聊评测',
+    'focus': '群聊评测','offer': '清华读博',
 	'poi': [116.333374,40.009645, '张开颜-清华读博']
 });
 stus.push({
@@ -80,11 +80,11 @@ stus.push({
 stus.push({
     'name': '张家乐', 'page': 'jlzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jlzhang2.jpg',
-    'focus': '省略与指代',
+    'focus': '省略与指代','offer': '深圳腾讯',
 	'poi': [113.941921, 22.528438, '张家乐-深圳腾讯'],
 });
 stus.push({
-    'name': '王雪松', 'page': 'xswang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
+    'name': '王雪松', 'page': 'xswang', 'type': 'D', 'sdt': 2022, 'gdt': 2027,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/xswang.jpg',
     'focus': '营销获客'
 });
