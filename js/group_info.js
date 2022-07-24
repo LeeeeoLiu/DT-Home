@@ -58,8 +58,8 @@ stus.push({
 stus.push({
     'name': '张开颜', 'page': 'kyzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang2.jpg',
-    'focus': '群聊评测','offer': '清华读博',
-	'poi': [116.333374,40.009645, '张开颜-清华读博']
+    'focus': '群聊评测','offer': '清华大学',
+	'poi': [116.333374,40.009645, '张开颜-清华大学']
 });
 stus.push({
     'name': '孙润鑫', 'page': 'rxsum', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
