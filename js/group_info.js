@@ -57,9 +57,9 @@ stus.push({
 });
 stus.push({
     'name': '张开颜', 'page': 'kyzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/kyzhang2.jpg',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/kyzhang2.jpg',
     'focus': '群聊评测','offer': '清华大学',
-	'poi': [116.333374,40.009645, '张开颜-清华大学']
+	'poi': [116.404763, 39.914023, '张开颜-清华大学']
 });
 stus.push({
     'name': '孙润鑫', 'page': 'rxsum', 'type': 'B', 'sdt': 2016, 'gdt': 2020,
@@ -189,10 +189,12 @@ stus.push({
 stus.push({
     'name': '宋明阳', 'page': 'smyang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/ymsong.jpg',
+	'focus': '对话系统'
 });
 stus.push({
     'name': '周姝涵', 'page': 'shzhou', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+	'focus': '对话系统'
 });
 
 // 打印小组成员
