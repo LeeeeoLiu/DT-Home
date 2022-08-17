@@ -20,7 +20,7 @@ stus.push({
 stus.push({
     'name': '刘元兴', 'page': 'yxliu', 'type': 'D', 'sdt': 2019, 'gdt':2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/yxliu.jpg',
-    'focus': '营销获客'
+    'focus': '对话式推荐'
 });
 stus.push({
     'name': '胡景雯', 'page': 'jwhu', 'type': 'D', 'sdt': 2020, 'gdt':2025,
@@ -86,7 +86,7 @@ stus.push({
 stus.push({
     'name': '王雪松', 'page': 'xswang', 'type': 'D', 'sdt': 2022, 'gdt': 2027,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/xswang.jpg',
-    'focus': '营销获客'
+    'focus': '多模态对话'
 });
 stus.push({
     'name': '杜佳琪', 'page': 'jqdu', 'type': 'M', 'sdt': 2021, 'gdt': 2023,

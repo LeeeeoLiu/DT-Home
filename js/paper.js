@@ -1,5 +1,19 @@
 var publications = [
 {
+    authors: 'Longxu Ma, Ziyu Zhuang, Wei-Nan Zhang, Mingda Li, and Ting Liu',
+    title: 'SelF- Eval: Self-supervised Fine- grained Dialogue Evaluation',
+    publication: 'COLING',
+    type: 'C',
+    year: '2022',
+    //pdf: 'https://arxiv.org/pdf/2203.07190.pdf',
+},{
+    authors: 'Weinan Zhang, Yiming Cui, Kaiyan Zhang, Yifa Wang, Qingfu Zhu, Lingzhi Li, Ting Liu',
+    title: 'A Static and Dynamic Attention Framework for Multi Turn Dialogue Generation',
+    publication: 'TOIS',
+    type: 'J',
+    year: '2022',
+    pdf: 'https://dl.acm.org/doi/10.1145/3522763',
+},{
     authors: 'Haoyu Song, Li Dong, Weinan Zhang, Ting Liu, Furu Wei',
     title: 'CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment',
     publication: 'ACL',
