@@ -1,5 +1,29 @@
 var publications = [
 {
+    authors: 'Haoyu Song, Wei-Nan Zhang, Kaiyan Zhang, Ting Liu',
+    title: 'A Stack-Propagation Framework for Low-Resource Personalized Dialogue Generation',
+    publication: 'TOIS',
+    type: 'J',
+    year: '2022',
+    //pdf: 'https://www.sciencedirect.com/science/article/pii/S2666166722003616',
+},
+{
+    authors: 'YimingCui, Wei-NanZhang, Ting Liu',
+    title: 'Visualizing attention zones in machine reading comprehension models',
+    publication: 'STAR Protocols',
+    type: 'J',
+    year: '2022',
+    pdf: 'https://www.sciencedirect.com/science/article/pii/S2666166722003616',
+},
+{
+    authors: 'YimingCui, Wei-NanZhang, WanxiangChe, TingLiu, ZhigangChen, ShijinWang',
+    title: 'Multilingual multi-aspect explainability analyses on machine reading comprehension models',
+    publication: 'iScience',
+    type: 'J',
+    year: '2022',
+    pdf: 'https://www.sciencedirect.com/science/article/pii/S2589004222004461',
+},
+{
     authors: 'Longxu Ma, Ziyu Zhuang, Wei-Nan Zhang, Mingda Li, and Ting Liu',
     title: 'SelF- Eval: Self-supervised Fine- grained Dialogue Evaluation',
     publication: 'COLING',
