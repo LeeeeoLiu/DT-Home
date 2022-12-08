@@ -155,12 +155,12 @@ stus.push({
     'poi': [-80.544866,43.472292, '刘天慧-滑铁卢大学']
 });
 stus.push({
-    'name': '勾宇航', 'page': 'yhgou', 'type': 'B', 'sdt': 2018,'gdt': 2024,
+    'name': '勾宇航', 'page': 'yhgou', 'type': 'M', 'sdt': 2022,'gdt': 2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d254a4/images/yhgou.jpg',
     'focus': '对话系统'
 });
 stus.push({
-    'name': '刘润泽', 'page': 'rzliu', 'type': 'B', 'sdt': 2018,'gdt': 2024,
+    'name': '刘润泽', 'page': 'rzliu', 'type': 'M', 'sdt': 2022,'gdt': 2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@21843ce/images/rzliu.jpg',
     'focus': '对话系统'
 });
@@ -171,12 +171,12 @@ stus.push({
     'poi': [114.217557,22.422407, '熊聪豪-香港中文大学']
 });
 stus.push({
-    'name': '白昊鹏', 'page': 'hpbai', 'type': 'B', 'sdt': 2018, 'gdt': 2024,
+    'name': '白昊鹏', 'page': 'hpbai', 'type': 'M', 'sdt': 2022, 'gdt': 2024,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@2375c9e/images/hpbai.jpg',
     'focus': '对话系统'
 });
 stus.push({
-    'name': '韩一', 'page': 'yhan', 'type': 'I', 'sdt': 2022, 'gdt': 2026,
+    'name': '韩一', 'page': 'yhan', 'type': 'D', 'sdt': 2022, 'gdt': 2026,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d254a4/images/yhan.jpg',
     'focus': '对话系统'
 });
@@ -187,12 +187,22 @@ stus.push({
     'poi': [121.514361,31.240005, '吕岸桐-谷歌']
 });
 stus.push({
-    'name': '宋明阳', 'page': 'smyang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/ymsong.jpg',
+    'name': '周姝含', 'page': 'shzhou', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
 	'focus': '对话系统'
 });
 stus.push({
-    'name': '周姝涵', 'page': 'shzhou', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'name': '钱宇珊', 'page': 'ysqian', 'type': 'D', 'sdt': 2023, 'gdt': 2028,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+	'focus': '对话系统'
+});
+stus.push({
+    'name': '陈一帆', 'page': 'yfchen', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+	'focus': '对话系统'
+});
+stus.push({
+    'name': '张宇驰', 'page': 'yczhang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
 	'focus': '对话系统'
 });
