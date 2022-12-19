@@ -1,5 +1,13 @@
 var publications = [
 {
+    authors: 'Donglin Di, Xianyang Song, Weinan Zhang, Yue Zhang, Fanglin Wang',
+    title: 'Building Dialogue Understanding Models for Low-resource Language Indonesian from Scratch',
+    publication: 'ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)',
+    type: 'J',
+    year: '2022',
+    pdf: 'http://dl-acm-org-s.ivpn.hit.edu.cn:1080/doi/10.1145/3575803',
+},
+{
     authors: 'Haoyu Song, Wei-Nan Zhang, Kaiyan Zhang, Ting Liu',
     title: 'A Stack-Propagation Framework for Low-Resource Personalized Dialogue Generation',
     publication: 'TOIS',
