@@ -10,7 +10,9 @@ stus.push({
 stus.push({
     'name': '宋皓宇', 'page': 'hysong', 'type': 'D', 'sdt': 2018, 'gdt':2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/hysong.jpg',
-    'focus': '对话角色化'
+    'focus': '对话角色化',
+    'offer': '北京华为',
+    'poi': [116.18,40.06,'宋皓宇-北京华为']
 });
 stus.push({
     'name': '马龙轩', 'page': 'lxma', 'type': 'D', 'sdt': 2019, 'gdt':2024,
@@ -73,9 +75,9 @@ stus.push({
     'focus': '对话背景建模'
 });
 stus.push({
-    'name': '狄东林', 'page': 'dldi', 'type': 'I', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg', 'offer': '北京',
-    'focus': '意图识别'
+    'name': '狄东林', 'page': 'dldi', 'type': 'D', 'sdt': 2023, 'gdt': 2028,
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg',
+    'focus': '对话系统'
 });
 stus.push({
     'name': '张家乐', 'page': 'jlzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
@@ -188,23 +190,38 @@ stus.push({
 });
 stus.push({
     'name': '周姝含', 'page': 'shzhou', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloO.jpg',
 	'focus': '对话系统'
 });
 stus.push({
     'name': '钱宇珊', 'page': 'ysqian', 'type': 'D', 'sdt': 2023, 'gdt': 2028,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloS.jpg',
 	'focus': '对话系统'
 });
 stus.push({
     'name': '陈一帆', 'page': 'yfchen', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloT.jpg',
 	'focus': '对话系统'
 });
 stus.push({
     'name': '张宇驰', 'page': 'yczhang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@master/images/benben_icon.png',
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloP.jpg',
 	'focus': '对话系统'
+});
+stus.push({
+    'name': '李昕宇', 'page': 'xyli', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloR.jpg',
+	'focus': '对话系统'
+});
+stus.push({
+    'name': '王昕毅', 'page': 'xywang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloM.jpg',
+	'focus': '对话系统'
+});
+stus.push({
+    'name': 'Federico Toschi', 'page': 'federico', 'type': 'I', 'sdt': 2023, 'gdt': 2025,
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloQ.jpg',
+    'focus': '对话系统'
 });
 
 // 打印小组成员

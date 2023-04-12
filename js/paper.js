@@ -1,5 +1,21 @@
 var publications = [
 {
+    authors: 'BiQing Qi, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu',
+    title: 'Improving Robustness of Intent Detection Under Adversarial Attacks: A Geometric Constraint Perspective',
+    publication: 'IEEE Transaction on Neural Networks and Learning Systems',
+    type: 'J',
+    year: '2023',
+//    pdf: '',
+},
+{
+    authors: 'Yuanxing Liu, Weinan Zhang, Baohua Dong, Yan Fan, Hang Wang, Fan Feng, Yifan Chen, Ziyu Zhuang, Hengbin Cui, Yongbin Li and Wanxiang Che',
+    title: 'U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation',
+    publication: 'SIGIR',
+    type: 'C',
+    year: '2023',
+//    pdf: '',
+},
+{
     authors: 'Donglin Di, Xianyang Song, Weinan Zhang, Yue Zhang, Fanglin Wang',
     title: 'Building Dialogue Understanding Models for Low-resource Language Indonesian from Scratch',
     publication: 'ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)',
@@ -32,7 +48,7 @@ var publications = [
     pdf: 'https://www.sciencedirect.com/science/article/pii/S2589004222004461',
 },
 {
-    authors: 'Longxu Ma, Ziyu Zhuang, Wei-Nan Zhang, Mingda Li, and Ting Liu',
+    authors: 'Longxuan Ma, Ziyu Zhuang, Wei-Nan Zhang, Mingda Li, and Ting Liu',
     title: 'SelF- Eval: Self-supervised Fine- grained Dialogue Evaluation',
     publication: 'COLING',
     type: 'C',
