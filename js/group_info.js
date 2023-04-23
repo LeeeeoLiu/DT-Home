@@ -209,7 +209,7 @@ stus.push({
 	'focus': '对话系统'
 });
 stus.push({
-    'name': '李昕宇', 'page': 'xyli', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'name': '李昕羽', 'page': 'xyli', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloR.jpg',
 	'focus': '对话系统'
 });
