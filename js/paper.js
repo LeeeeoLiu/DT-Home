@@ -1,5 +1,13 @@
 var publications = [
 {
+    authors: 'Longxuan Ma, Wei-Nan Zhang, Shuhan Zhou, Churui Sun, Changxin Ke, Ting Liu',
+    title: 'I run as fast as a rabit, can you? A multi-lingual simile dialogue dataset',
+    publication: 'Findings of ACL',
+    type: 'C',
+    year: '2023',
+//    pdf: '',
+},
+{
     authors: 'Biqing Qi, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu',
     title: 'Improving Robustness of Intent Detection Under Adversarial Attacks: A Geometric Constraint Perspective',
     publication: 'IEEE Transaction on Neural Networks and Learning Systems',
