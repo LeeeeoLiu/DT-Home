@@ -356,3 +356,28 @@ h1{
 .hiddendiv {
     display: none;
 }
+
+/*paper.css*/
+.paper-block{
+    width: 85%;
+    margin: auto;
+    display: flex;
+}
+
+.paper-pdf{
+    /* width: 20%; */
+    display: flex;margin: 1% 5px;
+}
+
+.paper-info-block{
+    /* width: 80%; */margin: 1% 1%;
+}
+
+.paper-title{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.paper-info span{
+    font-weight: bolder;
+}
