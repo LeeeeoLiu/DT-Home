@@ -180,7 +180,7 @@ stus.push({
 stus.push({
     'name': '韩一', 'page': 'yhan', 'type': 'D', 'sdt': 2022, 'gdt': 2026,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@8d254a4/images/yhan.jpg',
-    'focus': '大模型的安全性'
+    'focus': '大模型安全性'
 });
 stus.push({
     'name': '吕岸桐', 'page': 'atlv', 'type': 'I', 'sdt': 2020, 'gdt': 2021,
