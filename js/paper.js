@@ -1,5 +1,13 @@
 var publications = [
 {
+    authors: 'Hongyuan Dong, Weinan Zhang, Wanxiang Che*',
+    title: 'MetricPrompt: Prompting Model as a Relevance Metric for Few-shot Text Classification',
+    publication: 'KDD',
+    type: 'C',
+    year: '2023',
+//    pdf: '',
+},
+{
     authors: 'Longxuan Ma, Wei-Nan Zhang, Shuhan Zhou, Churui Sun, Changxin Ke, Ting Liu',
     title: 'I run as fast as a rabit, can you? A multi-lingual simile dialogue dataset',
     publication: 'Findings of ACL',
