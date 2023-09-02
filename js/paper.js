@@ -1,11 +1,19 @@
 var publications = [
 {
+    authors: 'Longxuan Ma, Jiapeng Li, Mingda Li, Wei-Nan Zhang, Ting Liu',
+    title: 'Policy-driven Knowledge Selection and Response Generation for Document-grounded Dialogue',
+    publication: 'TOIS',
+    type: 'J',
+    year: '2023',
+    pdf: 'https://dl.acm.org/doi/abs/10.1145/3617829',
+},
+{
     authors: 'Hongyuan Dong, Weinan Zhang, Wanxiang Che*',
     title: 'MetricPrompt: Prompting Model as a Relevance Metric for Few-shot Text Classification',
     publication: 'KDD',
     type: 'C',
     year: '2023',
-//    pdf: '',
+    pdf: 'https://dl.acm.org/doi/abs/10.1145/3580305.3599430',
 },
 {
     authors: 'Longxuan Ma, Wei-Nan Zhang, Shuhan Zhou, Churui Sun, Changxin Ke, Ting Liu',
@@ -13,7 +21,7 @@ var publications = [
     publication: 'Findings of ACL',
     type: 'C',
     year: '2023',
-//    pdf: '',
+    pdf: 'https://aclanthology.org/2023.findings-acl.453/',
 },
 {
     authors: 'Biqing Qi, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu',
@@ -21,7 +29,7 @@ var publications = [
     publication: 'IEEE Transaction on Neural Networks and Learning Systems',
     type: 'J',
     year: '2023',
-//    pdf: '',
+    pdf: 'https://ieeexplore.ieee.org/document/10215063',
 },
 {
     authors: 'Yuanxing Liu, Weinan Zhang, Baohua Dong, Yan Fan, Hang Wang, Fan Feng, Yifan Chen, Ziyu Zhuang, Hengbin Cui, Yongbin Li and Wanxiang Che',
@@ -29,7 +37,7 @@ var publications = [
     publication: 'SIGIR',
     type: 'C',
     year: '2023',
-//    pdf: '',
+    pdf: 'https://dl.acm.org/doi/abs/10.1145/3539618.3591878',
 },
 {
     authors: 'Donglin Di, Xianyang Song, Weinan Zhang, Yue Zhang, Fanglin Wang',
