@@ -93,7 +93,8 @@ stus.push({
 stus.push({
     'name': '杜佳琪', 'page': 'jqdu', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
-    'focus': '对话改写'
+    'focus': '对话改写',
+    'poi': [126.69, 45.74, "杜佳琪-黑龙省高级人民法院"]
 });
 stus.push({
     'name': '汪意发', 'page': 'yfwang', 'type': 'M', 'sdt': 2016, 'gdt': 2018,
@@ -128,17 +129,20 @@ stus.push({
 stus.push({
     'name': '王航', 'page': 'hwang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
-    'focus': '对话式推荐'
+    'focus': '对话式推荐',
+    'poi': [114.35875, 22.67960, "王航-比亚迪深圳"]
 });
 stus.push({
     'name': '李佳朋', 'page': 'jpli', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/jpli.jpg',
-    'focus': '对话背景建模'
+    'focus': '对话背景建模',
+    'poi': [113.94, 22.52, "李佳朋-深圳腾讯"]
 });
 stus.push({
     'name': '庄子彧', 'page': 'zyzhuang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/zyzhuang.jpg',
-    'focus': '对话评价'
+    'focus': '对话评价',
+    'poi': [121.35, 31.22, "上海携程"]
 });
 stus.push({
     'name': '肖瑞宇', 'page': 'ryxiao', 'type': 'D', 'sdt': 2021, 'gdt': 2026,
@@ -189,8 +193,8 @@ stus.push({
     'poi': [121.514361, 31.240005, '吕岸桐-谷歌']
 });
 stus.push({
-    'name': '周姝含', 'page': 'shzhou', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloO.jpg',
+    'name': 'Federico Toschi', 'page': 'federico', 'type': 'I', 'sdt': 2023, 'gdt': 2023,
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloQ.jpg',
     'focus': '大模型评价'
 });
 stus.push({
@@ -199,29 +203,60 @@ stus.push({
     'focus': '对话系统'
 });
 stus.push({
-    'name': '陈一帆', 'page': 'yfchen', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'name': '周姝含', 'page': 'shzhou', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
+    'pic': 'https://i.niupic.com/images/2023/04/12/aloO.jpg',
+    'focus': '大模型评价'
+});
+stus.push({
+    'name': '陈一帆', 'page': 'yfchen', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloT.jpg',
     'focus': 'RLHF'
 });
 stus.push({
-    'name': '张宇驰', 'page': 'yczhang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'name': '张宇驰', 'page': 'yczhang', 'type': 'M', 'sdt': 2019, 'gdt': 2026,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloP.jpg',
     'focus': '大模型角色化'
 });
 stus.push({
-    'name': '李昕羽', 'page': 'xyli', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'name': '李昕羽', 'page': 'xyli', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloR.jpg',
     'focus': '大模型评价'
 });
 stus.push({
-    'name': '王昕毅', 'page': 'xywang', 'type': 'B', 'sdt': 2019, 'gdt': 2025,
+    'name': '王昕毅', 'page': 'xywang', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloM.jpg',
     'focus': '大模型安全性'
 });
 stus.push({
-    'name': 'Federico Toschi', 'page': 'federico', 'type': 'I', 'sdt': 2023, 'gdt': 2025,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloQ.jpg',
+    'name': '韦明杰', 'page': 'mjwei', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
+    'pic': 'https://i.niupic.com/images/2023/09/05/bDzh.jpg',
+    'focus': '具身智能'
+});
+stus.push({
+    'name': '陈泽鑫', 'page': 'zxchen', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDzj.png',
     'focus': '大模型评价'
+});
+
+stus.push({
+    'name': '宋浩', 'page': 'hsong', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDzk.png',
+    'focus': '工业大模型'
+});
+stus.push({
+    'name': '王寄哲', 'page': 'jzwang', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDzi.png',
+    'focus': '工业大模型'
+});
+stus.push({
+    'name': '孙铭蔚', 'page': 'mwsun', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDzl.png',
+    'focus': '工业机器人'
+});
+stus.push({
+    'name': '陈帅行', 'page': 'sxchen', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDzi.png',
+    'focus': '大模型安全'
 });
 
 // 打印小组成员
