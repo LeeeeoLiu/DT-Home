@@ -213,7 +213,7 @@ stus.push({
     'focus': 'RLHF'
 });
 stus.push({
-    'name': '张宇驰', 'page': 'yczhang', 'type': 'M', 'sdt': 2019, 'gdt': 2026,
+    'name': '张宇驰', 'page': 'yczhang', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloP.jpg',
     'focus': '大模型角色化'
 });
@@ -257,6 +257,11 @@ stus.push({
     'name': '陈帅行', 'page': 'shchen', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
     'pic': 'https://i.niupic.com/images/2023/09/06/bDAG.jpg',
     'focus': '大模型安全'
+});
+stus.push({
+    'name': '冯怀绪', 'page': 'hxfeng', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDBc.jpg',
+    'focus': '对话系统'
 });
 
 // 打印小组成员
