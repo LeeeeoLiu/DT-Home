@@ -229,7 +229,7 @@ stus.push({
 });
 stus.push({
     'name': '韦明杰', 'page': 'mjwei', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/09/05/bDzh.jpg',
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDBd.jpg',
     'focus': '具身智能'
 });
 stus.push({
@@ -240,7 +240,7 @@ stus.push({
 
 stus.push({
     'name': '宋浩', 'page': 'hsong', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDzk.jpg',
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDBf.jpg',
     'focus': '工业大模型'
 });
 stus.push({
@@ -250,7 +250,7 @@ stus.push({
 });
 stus.push({
     'name': '孙铭蔚', 'page': 'mwsun', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDzl.jpg',
+    'pic': 'https://i.niupic.com/images/2023/09/06/bDBe.jpg',
     'focus': '工业机器人'
 });
 stus.push({
