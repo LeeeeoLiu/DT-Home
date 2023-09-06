@@ -77,7 +77,7 @@ stus.push({
 stus.push({
     'name': '狄东林', 'page': 'dldi', 'type': 'M', 'sdt': 2023, 'gdt': 2028,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg',
-    'focus': 'MEM'
+    'focus': '工业大模型'
 });
 stus.push({
     'name': '张家乐', 'page': 'jlzhang', 'type': 'M', 'sdt': 2020, 'gdt': 2022,
@@ -293,7 +293,7 @@ for (i = 0; i < stus.length; i++) {
     } else if (stus[i].gdt + 7 / 12.0 > todt) {
         if (stus[i].type == 'M') {
             if (stus[i].name == "狄东林"){
-                mpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + "MEM" + '<span> | </span>' + stus[i].focus + '</div></div></div>';
+                mpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] +  " MEM" + '<span> | </span>' + stus[i].focus + '</div></div></div>';
             }else{
                 mpicsText += '<div class="user-card-stu"> <div class="user-avator" style="background-image: url(' + stus[i].pic + ');"> </div> <div> <div class="user-name"> <a href="http://ir.hit.edu.cn/~' + stus[i].page + '">' + stus[i].name + '</a> </div> <div class="user-title">' + stus[i].sdt + '级' + stuType[stus[i].type] + '<span> | </span>' + stus[i].focus + '</div></div></div>';
             }
