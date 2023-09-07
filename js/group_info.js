@@ -199,7 +199,9 @@ stus.push({
 stus.push({
     'name': 'Federico Toschi', 'page': 'federico', 'type': 'I', 'sdt': 2023, 'gdt': 2023,
     'pic': 'https://i.niupic.com/images/2023/04/12/aloQ.jpg',
-    'focus': '大模型评价'
+    'focus': '大模型评价',
+    'offer': '米兰理工大学',
+    'poi': [9.22853, 45.47887, "Federico-米兰理工大学"]
 });
 stus.push({
     'name': '钱宇珊', 'page': 'ysqian', 'type': 'D', 'sdt': 2023, 'gdt': 2028,
