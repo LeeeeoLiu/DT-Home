@@ -94,6 +94,7 @@ stus.push({
     'name': '杜佳琪', 'page': 'jqdu', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/jqdu.jpg',
     'focus': '对话改写',
+    'offer': '黑龙江省法院',
     'poi': [126.69, 45.74, "杜佳琪-黑龙江省高级人民法院"]
 });
 stus.push({
@@ -130,18 +131,21 @@ stus.push({
     'name': '王航', 'page': 'hwang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@925329e/images/hwang.jpg',
     'focus': '对话式推荐',
+    'offer': '比亚迪深圳',
     'poi': [114.35875, 22.67960, "王航-比亚迪深圳"]
 });
 stus.push({
     'name': '李佳朋', 'page': 'jpli', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/jpli.jpg',
     'focus': '对话背景建模',
+    'offer': '深圳腾讯',
     'poi': [113.94, 22.52, "李佳朋-深圳腾讯"]
 });
 stus.push({
     'name': '庄子彧', 'page': 'zyzhuang', 'type': 'M', 'sdt': 2021, 'gdt': 2023,
     'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@176dd32/images/zyzhuang.jpg',
     'focus': '对话评价',
+    'offer': '上海携程',
     'poi': [121.35, 31.22, "庄子彧-上海携程"]
 });
 stus.push({
@@ -261,7 +265,7 @@ stus.push({
 stus.push({
     'name': '冯怀绪', 'page': 'hxfeng', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
     'pic': 'https://i.niupic.com/images/2023/09/06/bDBc.jpg',
-    'focus': '对话系统'
+    'focus': '工业大模型'
 });
 
 // 打印小组成员
