@@ -76,7 +76,7 @@ stus.push({
 });
 stus.push({
     'name': '狄东林', 'page': 'dldi', 'type': 'M', 'sdt': 2023, 'gdt': 2028,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/dldi.jpg',
+    'pic': 'https://i.niupic.com/images/2023/09/07/bDC0.jpg',
     'focus': '工业大模型'
 });
 stus.push({
@@ -250,7 +250,7 @@ stus.push({
 });
 stus.push({
     'name': '孙铭蔚', 'page': 'mwsun', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDBe.jpg',
+    'pic': 'https://i.niupic.com/images/2023/09/07/bDC1.jpg',
     'focus': '工业机器人'
 });
 stus.push({
