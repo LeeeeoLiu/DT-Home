@@ -240,7 +240,7 @@ stus.push({
 
 stus.push({
     'name': '宋浩', 'page': 'hsong', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDBf.jpg',
+    'pic': 'https://i.niupic.com/images/2023/09/07/bDC2.jpg',
     'focus': '工业大模型'
 });
 stus.push({
