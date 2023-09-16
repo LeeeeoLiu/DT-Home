@@ -255,9 +255,14 @@ stus.push({
     'focus': '工业大模型'
 });
 stus.push({
-    'name': '孙铭蔚', 'page': 'mwsun', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/07/bDC1.jpg',
-    'focus': '工业机器人'
+    'name': '高幸', 'page': 'xgao', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://imgur.com/OUduqBa',
+    'focus': '对话系统'
+});
+stus.push({
+    'name': '吴磊', 'page': 'lwu', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
+    'pic': 'https://imgur.com/Za6f9lm',
+    'focus': '对话系统'
 });
 stus.push({
     'name': '陈帅行', 'page': 'shchen', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
