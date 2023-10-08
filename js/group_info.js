@@ -256,12 +256,12 @@ stus.push({
 });
 stus.push({
     'name': '高幸', 'page': 'xgao', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://img1.imgtp.com/2023/09/17/FZtOW1We.jpg',
+    'pic': 'https://imgloc.com/image/L4bdC',
     'focus': '对话系统'
 });
 stus.push({
     'name': '吴磊', 'page': 'lwu', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
-    'pic': 'https://img1.imgtp.com/2023/09/17/9OsHWHvk.jpg',
+    'pic': 'https://imgloc.com/image/L4deW',
     'focus': '对话系统'
 });
 stus.push({
