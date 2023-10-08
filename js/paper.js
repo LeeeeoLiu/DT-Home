@@ -1,5 +1,21 @@
 var publications = [
 {
+    authors: 'Yushan Qian, Wei-Nan Zhang, Ting Liu',
+    title: 'Harnessing the Power of Large Language Models for Empathetic Response Generation: Empirical Investigations and Improvements',
+    publication: 'Findings of EMNLP',
+    type: 'C',
+    year: '2023',
+    // pdf: '',
+},
+{
+    authors: 'Yuanxing Liu, Wei-Nan Zhang, Yifan Chen, Yuchi Zhang, Haopeng Bai, Fan Feng, Hengbin Cui, Yongbin Li, Wanxiang Che',
+    title: 'Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue',
+    publication: 'Findings of EMNLP',
+    type: 'C',
+    year: '2023',
+    // pdf: '',
+},
+{
     authors: 'Longxuan Ma, Jiapeng Li, Mingda Li, Wei-Nan Zhang, Ting Liu',
     title: 'Policy-driven Knowledge Selection and Response Generation for Document-grounded Dialogue',
     publication: 'TOIS',
