@@ -1,5 +1,13 @@
 var publications = [
 {
+    authors: 'Zhuang Ziyu, Chen Qiguang, Ma Longxuan, Li Mingda, Han Yi, Qian Yushan, Bai Haopeng, Zhang Weinan, Ting Liu',
+    title: 'Through the Lens of Core Competency: Survey on Evaluation of Large Language Models',
+    publication: 'CCL',
+    type: 'C',
+    year: '2023',
+    // pdf: '',
+},
+{
     authors: 'Yushan Qian, Wei-Nan Zhang, Ting Liu',
     title: 'Harnessing the Power of Large Language Models for Empathetic Response Generation: Empirical Investigations and Improvements',
     publication: 'Findings of EMNLP',
