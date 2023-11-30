@@ -5,7 +5,7 @@ var publications = [
     publication: 'CCL',
     type: 'C',
     year: '2023',
-    // pdf: '',
+    pdf: 'https://aclanthology.org/2023.ccl-2.8/',
 },
 {
     authors: 'Yushan Qian, Wei-Nan Zhang, Ting Liu',
@@ -77,7 +77,7 @@ var publications = [
     publication: 'TOIS',
     type: 'J',
     year: '2022',
-    //pdf: 'https://www.sciencedirect.com/science/article/pii/S2666166722003616',
+    pdf: 'https://dl.acm.org/doi/10.1145/3563389',
 },
 {
     authors: 'YimingCui, Wei-NanZhang, Ting Liu',
@@ -101,7 +101,7 @@ var publications = [
     publication: 'COLING',
     type: 'C',
     year: '2022',
-    //pdf: 'https://arxiv.org/pdf/2203.07190.pdf',
+    pdf: 'https://aclanthology.org/2022.coling-1.39/',
 },{
     authors: 'Weinan Zhang, Yiming Cui, Kaiyan Zhang, Yifa Wang, Qingfu Zhu, Lingzhi Li, Ting Liu',
     title: 'A Static and Dynamic Attention Framework for Multi Turn Dialogue Generation',
