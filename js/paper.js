@@ -1,6 +1,14 @@
 var publications = [
 {
-    authors: 'Zhuang Ziyu, Chen Qiguang, Ma Longxuan, Li Mingda, Han Yi, Qian Yushan, Bai Haopeng, Zhang Weinan, Ting Liu',
+    authors: 'Longxuan Ma, Changxin Ke, Shuhan Zhou, Churui Sun, Wei-Nan Zhang, Ting Liu',
+    title: 'A Self-verified Method for Exploring Simile Knowledge from Pre-trained Language Models',
+    publication: 'COLING',
+    type: 'C',
+    year: '2024',
+    // pdf: '',
+},
+{
+    authors: 'Ziyu Zhuang, Qiguang Chen, Longxuan Ma, Mingda Li, Yi Han, Yushan Qian, Haopeng Bai, Weinan Zhang, Ting Liu',
     title: 'Through the Lens of Core Competency: Survey on Evaluation of Large Language Models',
     publication: 'CCL',
     type: 'C',
@@ -13,7 +21,7 @@ var publications = [
     publication: 'Findings of EMNLP',
     type: 'C',
     year: '2023',
-    // pdf: '',
+    pdf: 'https://aclanthology.org/2023.findings-emnlp.433/',
 },
 {
     authors: 'Yuanxing Liu, Wei-Nan Zhang, Yifan Chen, Yuchi Zhang, Haopeng Bai, Fan Feng, Hengbin Cui, Yongbin Li, Wanxiang Che',
@@ -21,7 +29,7 @@ var publications = [
     publication: 'Findings of EMNLP',
     type: 'C',
     year: '2023',
-    // pdf: '',
+    pdf: 'https://aclanthology.org/2023.findings-emnlp.643/',
 },
 {
     authors: 'Longxuan Ma, Jiapeng Li, Mingda Li, Wei-Nan Zhang, Ting Liu',
