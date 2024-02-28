@@ -49,7 +49,7 @@ var publications = [
 },
 {
     authors: 'Longxuan Ma, Wei-Nan Zhang, Shuhan Zhou, Churui Sun, Changxin Ke, Ting Liu',
-    title: 'I run as fast as a rabit, can you? A multi-lingual simile dialogue dataset',
+    title: 'I run as fast as a rabbit, can you? A Multilingual Simile Dialogues Datasets',
     publication: 'Findings of ACL',
     type: 'C',
     year: '2023',
