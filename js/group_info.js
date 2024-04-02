@@ -53,7 +53,7 @@ stus.push({
 });
 stus.push({
     'name': '冯梓娴', 'page': 'zxfeng', 'type': 'M', 'sdt': 2019, 'gdt': 2021,
-    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zxfeng.jpg', 'offer': '部队',
+    'pic': 'https://cdn.jsdelivr.net/gh/LeeeeoLiu/DT-Home@6b701e1/images/zxfeng.jpg', 'offer': '公务员',
     'poi': [123.46987, 41.80515, '冯梓娴-沈阳'],
     'focus': '对话评价'
 });
