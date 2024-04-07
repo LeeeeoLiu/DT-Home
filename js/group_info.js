@@ -274,6 +274,16 @@ stus.push({
     'pic': 'https://i.niupic.com/images/2023/09/06/bDBc.jpg',
     'focus': '工业大模型'
 });
+stus.push({
+    'name': '孙楚芮', 'page': 'crsun', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://i.niupic.com/images/2024/04/07/hvQn.jpg',
+    'focus': '工业大模型'
+});
+stus.push({
+    'name': '梁师齐', 'page': 'sqliang', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
+    'pic': 'https://i.niupic.com/images/2024/04/07/hvQo.jpg',
+    'focus': '工业大模型'
+});
 
 // 打印小组成员
 var i;
