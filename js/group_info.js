@@ -76,7 +76,7 @@ stus.push({
 });
 stus.push({
     'name': '狄东林', 'page': 'dldi', 'type': 'M', 'sdt': 2023, 'gdt': 2028,
-    'pic': 'https://i.niupic.com/images/2023/09/07/bDC0.jpg',
+    'pic': 'https://i.com/images/2023/09/07/bDC0.jpg',
     'focus': '工业大模型'
 });
 stus.push({
@@ -198,90 +198,90 @@ stus.push({
 });
 stus.push({
     'name': 'Federico Toschi', 'page': 'federico', 'type': 'I', 'sdt': 2023, 'gdt': 2023,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloQ.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloQ.jpg',
     'focus': '大模型评价',
     'offer': '米兰理工大学',
     'poi': [9.22853, 45.47887, "Federico-米兰理工大学"]
 });
 stus.push({
     'name': '钱宇珊', 'page': 'ysqian', 'type': 'D', 'sdt': 2023, 'gdt': 2028,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloS.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloS.jpg',
     'focus': '对话系统'
 });
 stus.push({
     'name': '周姝含', 'page': 'shzhou', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloO.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloO.jpg',
     'focus': '大模型评价'
 });
 stus.push({
     'name': '陈一帆', 'page': 'yfchen', 'type': 'M', 'sdt': 2023, 'gdt': 2028,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloT.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloT.jpg',
     'focus': 'RLHF'
 });
 stus.push({
     'name': '张宇驰', 'page': 'yczhang', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloP.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloP.jpg',
     'focus': '大模型角色化'
 });
 stus.push({
     'name': '李昕羽', 'page': 'xyli', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloR.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloR.jpg',
     'focus': '大模型评价'
 });
 stus.push({
     'name': '王昕毅', 'page': 'xywang', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/04/12/aloM.jpg',
+    'pic': 'https://i.com/images/2023/04/12/aloM.jpg',
     'focus': '大模型安全性'
 });
 stus.push({
     'name': '韦明杰', 'page': 'mjwei', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDBd.jpg',
+    'pic': 'https://i.com/images/2023/09/06/bDBd.jpg',
     'focus': '具身智能'
 });
 stus.push({
     'name': '陈泽鑫', 'page': 'zxchen', 'type': 'M', 'sdt': 2023, 'gdt': 2026,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDzj.jpg',
+    'pic': 'https://i.com/images/2023/09/06/bDzj.jpg',
     'focus': '大模型评价'
 });
 
 stus.push({
     'name': '宋浩', 'page': 'hsong', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/07/bDC2.jpg',
+    'pic': 'https://i.com/images/2023/09/07/bDC2.jpg',
     'focus': '工业大模型'
 });
 stus.push({
     'name': '王寄哲', 'page': 'jzwang', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDAF.jpg',
+    'pic': 'https://i.com/images/2023/09/06/bDAF.jpg',
     'focus': '工业大模型'
 });
 stus.push({
     'name': '高幸', 'page': 'xgao', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2024/04/07/hvQp.jpeg',
+    'pic': 'https://i.com/images/2024/04/07/hvQp.jpeg',
     'focus': '对话系统'
 });
 stus.push({
     'name': '吴磊', 'page': 'lwu', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
-    'pic': 'https://i.niupic.com/images/2024/04/07/hvQq.jpeg',
+    'pic': 'https://i.com/images/2024/04/07/hvQq.jpeg',
     'focus': '对话系统'
 });
 stus.push({
     'name': '陈帅行', 'page': 'shchen', 'type': 'B', 'sdt': 2020, 'gdt': 2029,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDAG.jpg',
+    'pic': 'https://i.com/images/2023/09/06/bDAG.jpg',
     'focus': '大模型安全'
 });
 stus.push({
     'name': '冯怀绪', 'page': 'hxfeng', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2023/09/06/bDBc.jpg',
+    'pic': 'https://i.com/images/2023/09/06/bDBc.jpg',
     'focus': '工业大模型'
 });
 stus.push({
     'name': '孙楚芮', 'page': 'crsun', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2024/04/07/hvQn.jpg',
+    'pic': 'https://i.com/images/2024/04/07/hvQn.jpg',
     'focus': '工业大模型'
 });
 stus.push({
     'name': '梁师齐', 'page': 'sqliang', 'type': 'B', 'sdt': 2020, 'gdt': 2027,
-    'pic': 'https://i.niupic.com/images/2024/04/07/hvQo.jpg',
+    'pic': 'https://i.com/images/2024/04/07/hvQo.jpg',
     'focus': '工业大模型'
 });
 
